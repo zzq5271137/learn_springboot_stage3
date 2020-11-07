@@ -3,12 +3,47 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:learn_springboot_stage3" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c4f58c3-8e95-4323-9e98-a4fb95b5078f" name="Default Changelist" comment="" />
+    <list default="true" id="2c4f58c3-8e95-4323-9e98-a4fb95b5078f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycomp/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycomp/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -29,12 +64,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1jxtHokgBJAzp0H78WtVylTRmDY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -64,6 +106,19 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Learn_SpringBoot_stage3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mycomp.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,6 +227,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -181,7 +241,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604757485971</updated>
+      <workItem from="1604757487043" duration="1319000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604758132751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604758132751" />
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom" timestamp="1604758807919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604758807919" />
+    <state width="1877" height="293" key="GridCell.Tab.0.center" timestamp="1604758807918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604758807918" />
+    <state width="1877" height="293" key="GridCell.Tab.0.left" timestamp="1604758807918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604758807918" />
+    <state width="1877" height="293" key="GridCell.Tab.0.right" timestamp="1604758807919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604758807919" />
+    <state width="1877" height="293" key="GridCell.Tab.1.bottom" timestamp="1604758807919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604758807919" />
+    <state width="1877" height="293" key="GridCell.Tab.1.center" timestamp="1604758807919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604758807919" />
+    <state width="1877" height="293" key="GridCell.Tab.1.left" timestamp="1604758807919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604758807919" />
+    <state width="1877" height="293" key="GridCell.Tab.1.right" timestamp="1604758807919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604758807919" />
+    <state width="287" height="477" key="HiddenNamespacesPopup" timestamp="1604758140878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="287" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604758140878" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1604757838671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604757838671" />
   </component>
 </project>
