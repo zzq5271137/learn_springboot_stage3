@@ -6,3 +6,9 @@ spring:
 # 端口配置
 server:
   port: 8087
+
+# 日志配置
+logging:
+  level:
+    com.mycomp: debug
+  path: "./logs"
